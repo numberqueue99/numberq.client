@@ -45,10 +45,7 @@
     <string name="delete">delete.php</string>
     <string name="update">update.php</string>
 
-    <string name="add_record">新增</string>
-    <string name="update_record">更新</string>
-    <string name="delete_record">刪除</string>
-    <string name="refresh_record">刷新</string>
+    <string name="refresh_record">refresh</string>
     <string name="phpSQLNumLimit">n</string>
     <string name="phpSQLFunction">w</string>
     <string name="phpSQLPwdFunction">p</string>
@@ -80,7 +77,9 @@
     <string name="menu_added_canceled">已取消</string>
     <string name="menu_quantity">數量:</string>
     <string name="menu_totalPrice">總價:</string>
-
+    <string name="add_record">add</string>
+    <string name="update_record">update</string>
+    <string name="delete_record">delete</string>
 
 
 </resources>
