@@ -34,7 +34,7 @@ public class WelcomeActivity extends AppCompatActivity {
         context = this;
 
         new OkHttpHandler().execute(MENU_SERVER);
-        new OkHttpHandler().execute(STORE_SERVER);
+        //new OkHttpHandler().execute(STORE_SERVER);
     }
 
     private class OkHttpHandler extends AsyncTask <String, Void, Void> {
